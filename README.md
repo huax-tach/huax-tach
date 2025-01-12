@@ -12,5 +12,4 @@
 - 3、实现蓝牙连接控制舵机
 - 4、对代码进行调试，使机器人可以行走
 # 四、项目参考资料
-- 
-https：//oshwhub.com/wanshouxujiu/si-zu-ji-qi-ren
+- https://github.com/wanshouxujiu/quadruped-robot
